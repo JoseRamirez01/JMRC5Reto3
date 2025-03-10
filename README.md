@@ -2,6 +2,8 @@
 
 --este es el README de main
 
+--Este es el README de QA
+
 ---este es el README de featutre1
 
 ---este es el task 1
